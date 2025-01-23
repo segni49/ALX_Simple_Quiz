@@ -49,5 +49,5 @@ document.getElementById('clear').addEventListener('click', function(){
     document.getElementById('number1').value = "";
     document.getElementById('number2').value = "";
     document.getElementById('calculation-result').textContent = "0";
-}
+});
 
